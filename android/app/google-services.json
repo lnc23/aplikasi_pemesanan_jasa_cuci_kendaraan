@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306798642062",
+    "project_id": "skripsi-ae8ad",
+    "storage_bucket": "skripsi-ae8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306798642062:android:c3ebf7bfe374edc0969adf",
+        "android_client_info": {
+          "package_name": "com.yanson.lazywash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306798642062-ej44puj03gk9dac1ckhnp1ug2plsv0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Dcm-wYu1Ats4hCuegJ35sjnW1s88_NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306798642062-ej44puj03gk9dac1ckhnp1ug2plsv0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
